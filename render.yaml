@@ -3,7 +3,7 @@ services:
   - type: web
     name: my-first-site
 env: static
-nitialize Git in your project folder:
+initialize Git in your project folder:
 text
 git init
 git add .
